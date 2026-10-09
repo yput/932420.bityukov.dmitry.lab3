@@ -180,4 +180,7 @@ nav ul {
     .projects {
         grid-template-columns: 1fr;
     }
+    .directors-grid {
+        grid-template-columns: 1fr;
+    }
 }
