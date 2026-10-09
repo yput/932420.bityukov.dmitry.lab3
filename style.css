@@ -179,6 +179,7 @@ nav ul {
     }
     .films-card {
         flex: 0 1 45%;
+        max-width: 45%;
     }
     .directors-grid {
         grid-template-columns: 1fr 1fr;
@@ -205,6 +206,7 @@ nav ul {
     }
     .films-card {
         flex: 0 1 100%;
+        max-width: 100%;
     }
     .project-card {
         padding-left: 15px;
