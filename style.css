@@ -208,4 +208,7 @@ nav ul {
     .project-card {
         padding-left: 15px;
     }
+    .films-card h3, .films-card p {
+        padding-left: 15px;
+    }
 }
