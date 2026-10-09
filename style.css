@@ -152,6 +152,7 @@ nav ul {
     display: flex;
     gap: 20px;
     flex-wrap: wrap;
+    justify-content: center;
 }
 .films-card {
     background: var(--grey);
