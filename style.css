@@ -39,6 +39,7 @@ section {
 }
 footer{
     text-align: right;
+    padding-right: 2px;
 }
 form {
     padding: 0 20px;
@@ -175,6 +176,9 @@ nav ul {
     .projects {
         grid-template-columns: 1fr 1fr;
     }
+    .films-card {
+        flex: 1 1 45%;
+    }    
 }
 @media (max-width: 480px){
     .projects {
@@ -188,5 +192,8 @@ nav ul {
         gap: 10px;
         padding: 10px 15px;
         font-size: 0.9em;
+    }
+    .films-card {
+        flex: 1 1 100%;
     }
 }
