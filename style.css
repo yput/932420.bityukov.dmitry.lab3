@@ -185,7 +185,7 @@ nav ul {
         grid-template-columns: 1fr 1fr;
     }
     .project-card {
-        padding-left: 15px;
+        padding-left: 10px;
     }
     .films-card h3, .films-card p {
         padding-left: 15px;
@@ -209,7 +209,7 @@ nav ul {
         max-width: 100%;
     }
     .project-card {
-        padding-left: 15px;
+        padding-left: 10px;
     }
     .films-card h3, .films-card p {
         padding-left: 15px;
