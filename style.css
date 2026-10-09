@@ -156,7 +156,7 @@ nav ul {
 .films-card {
     background: var(--grey);
     border: 1px solid var(--green);
-    flex: 0 1 280px;
+    flex: 1 1 280px;
     padding-bottom: 20px;
 }
 .films-card h3, .films-card p {
