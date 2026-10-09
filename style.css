@@ -156,7 +156,7 @@ nav ul {
 .films-card {
     background: var(--grey);
     border: 1px solid var(--green);
-    flex: 1 1 280px;
+    flex: 0 1 280px;
     padding-bottom: 20px;
 }
 .films-card h3, .films-card p {
@@ -182,6 +182,9 @@ nav ul {
     .directors-grid {
         grid-template-columns: 1fr 1fr;
     }
+    .project-card {
+        padding-left: 15px;
+    }
 }
 @media (max-width: 480px){
     .projects {
@@ -198,5 +201,8 @@ nav ul {
     }
     .films-card {
         flex: 0 1 100%;
+    }
+    .project-card {
+        padding-left: 15px;
     }
 }
